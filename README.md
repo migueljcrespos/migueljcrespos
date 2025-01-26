@@ -9,7 +9,7 @@ Mi objetivo es, por un lado, devolver todo el conocimiento que la comunidad ha c
 
 - 🌱 Estoy aprendiendo Python y R.
 - 👯 Busco colaborar en proyestos GIS de Arqueología y Patrimonio Histórico.
-- 🤔 Estoy buscando ayuda en códigos Python y R een QGIS.
+- 🤔 Estoy buscando ayuda en códigos Python y R en QGIS.
 
 ## Algunos de mis códigos:
 - Para entorno RStudio:
