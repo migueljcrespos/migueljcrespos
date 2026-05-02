@@ -1,4 +1,4 @@
-# Hola, mi nombre es Miguel 👋
+# Hola 👋
 ### 🗿 Arqueología y Patrimonio Histórico computacional 💻
 
 ![https://github.com/migueljcrespos](./yo_github_profile.png)
