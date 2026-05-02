@@ -1,7 +1,7 @@
 # Hola 👋
 ### 🗿 Arqueología y Patrimonio Histórico computacional 💻
 
-![https://github.com/migueljcrespos](./yo_github_profile.png)
+![https://github.com/tgapdev](./yo_github_profile.png)
 
 ![QGIS](https://img.shields.io/badge/-QGIS-008f39?style=flat-square&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
